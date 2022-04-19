@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "numeric": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "valarray": "cpp",
+        "cmath": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
